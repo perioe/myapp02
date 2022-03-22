@@ -1,0 +1,7 @@
+.App {
+  display: grid;
+  max-width: 1024px;
+  margin: 0 auto;
+  padding: 1rem;
+  grid-column-gap: 10px;
+}
